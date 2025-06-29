@@ -1,5 +1,5 @@
 # Système de gestion des vols et des passagers pour l'aéroport Charles de Gaulle
-
+### Réalisé par : Marry Lawin, Verlie Aimé, Véronique Masuaku, Jean Michel Mupapa & Serena Marcelline
 ### Contexte
 
 L’aéroport Charles de Gaulle modernise la gestion de ses informations relatives aux vols, aux passagers et aux services associés. Le système développé permet :
@@ -109,7 +109,3 @@ Sur MONGO.DB, après avoir fait vos commande de test comme "python main.py ou en
 ### Structure du projet :
 
 <img width="299" alt="Capture d’écran 2025-06-29 à 22 23 13" src="https://github.com/user-attachments/assets/13d17964-6697-478e-873b-534d326e31a7" />
-
-
-
-## Réalisé par : Marry Lawin, Verlie Aimé, Véronique Masuaku, Jean Michel Mupapa & Serena Marcelline
