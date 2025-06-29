@@ -110,3 +110,6 @@ Sur MONGO.DB, après avoir fait vos commande de test comme "python main.py ou en
 
 <img width="299" alt="Capture d’écran 2025-06-29 à 22 23 13" src="https://github.com/user-attachments/assets/13d17964-6697-478e-873b-534d326e31a7" />
 
+
+
+## Réalisé par : Marry Lawin, Verlie Aimé, Véronique Masuaku, Jean Michel Mupapa & Serena Marcelline
