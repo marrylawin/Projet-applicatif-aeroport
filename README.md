@@ -1,5 +1,5 @@
 # Système de gestion des vols et des passagers pour l'aéroport Charles de Gaulle
-### Réalisé par : Marry Lawin, Verlie Aimé, Véronique Masuaku, Jean Michel Mupapa & Serena Marcelline
+### Réalisé par : Marry Lawin, Verlie Aimé, Véronique Masuaku, Jean Michel Mupapa, Dorra Zgolli & Serena Marcelline
 ### Contexte
 
 L’aéroport Charles de Gaulle modernise la gestion de ses informations relatives aux vols, aux passagers et aux services associés. Le système développé permet :
